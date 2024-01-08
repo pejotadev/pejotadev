@@ -1,11 +1,11 @@
 # Olá, eu sou Pedro José! 👋
 
 ## Sobre Mim
-🔭 Actively engaged in web development projects at Bem Protege Insurance, focusing on innovative solutions.
-🌱 Deepening my understanding of advanced Architectural designs and AWS technologies.
-👯 Eager to contribute and collaborate on impactful open-source projects.
-💬 Feel free to inquire about my expertise in JavaScript, PHP, and various aspects of web development.
-📫 Contact me: [pejotabh@gmail.com](mailto:pejotabh@gmail.com)
+-🔭 Actively engaged in web development projects at Bem Protege Insurance, focusing on innovative solutions.
+-🌱 Deepening my understanding of advanced Architectural designs and AWS technologies.
+-👯 Eager to contribute and collaborate on impactful open-source projects.
+-💬 Feel free to inquire about my expertise in JavaScript, PHP, and various aspects of web development.
+-📫 Contact me: [pejotabh@gmail.com](mailto:pejotabh@gmail.com)
 
 ## Tecnologias e Ferramentas
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)

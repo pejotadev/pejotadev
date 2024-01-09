@@ -1,13 +1,13 @@
-# Olá, eu sou Pedro José! 👋
+# Hello, i am Pedro José! 👋
 
-## Sobre Mim
+## About
 - 🔭 Actively engaged in web development projects at Bem Protege Insurance, focusing on innovative solutions.
 - 🌱 Deepening my understanding of advanced Architectural designs and AWS technologies.
 - 👯 Eager to contribute and collaborate on impactful open-source projects.
 - 💬 Feel free to inquire about my expertise in JavaScript, PHP, and various aspects of web development.
 - 📫 Contact me: [pejotabh@gmail.com](mailto:pejotabh@gmail.com)
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![](https://img.shields.io/badge/Code-Python-blue)
 ![](https://img.shields.io/badge/Code-Java-red)
@@ -22,19 +22,19 @@
 ![](https://img.shields.io/badge/Database-Mongo-yellow)
 
 
-## Blog Posts Recentes
+## Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Otimizando o workflow de entrega de demandas](https://www.tabnews.com.br/pejotadev/otimizando-o-workflow-de-entrega-de-demandas)
 - [Como algoritimos de relevancia funcionam?!](https://www.tabnews.com.br/pejotadev/como-algoritimos-de-relevancia-funcionam)
 <!-- BLOG-POST-LIST:END -->
-Mais posts [aqui](https://www.tabnews.com.br/pejotadev)
+More posts [here](https://www.tabnews.com.br/pejotadev)
 
-## Meus Stats
+## My Stats
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pejotadev&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pejotadev)
 
 
-## Vamos nos conectar!
+## Contact-me!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pejota_bh/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pejotadev/)

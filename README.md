@@ -29,6 +29,11 @@
 <!-- BLOG-POST-LIST:END -->
 More posts [here](https://www.tabnews.com.br/pejotadev)
 
+# Some Projects
+ React and Typescript
+- <a href="https://fintech-psi-nine.vercel.app/" target="_blank">Sales dashboard</a>
+- <a href="https://react-ts-products.vercel.app/" target="_blank">Products list</a>
+
 ## My Stats
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pejotadev&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pejotadev)

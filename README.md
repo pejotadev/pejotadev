@@ -33,6 +33,8 @@ More posts [here](https://www.tabnews.com.br/pejotadev)
  React and Typescript
 - <a href="https://fintech-psi-nine.vercel.app/" target="_blank">Sales dashboard</a>
 - <a href="https://react-ts-products.vercel.app/" target="_blank">Products list</a>
+Typescript
+- <a href="https://slider-ts-five.vercel.app/" target="_blank">Slider TS</a>
 
 ## My Stats
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pejotadev&layout=compact)
